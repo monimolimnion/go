@@ -1,1 +1,1 @@
-# go
+# https://godoc.org/
